@@ -3,4 +3,4 @@ A web API for musician payments in each event
 
 Module 1
 ========
-Implement User Registration 
+Implement User Registration module
